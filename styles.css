@@ -1,0 +1,42 @@
+
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background: url('fundo-animalprint.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #5e3c3c;
+}
+
+.container {
+    background-color: rgba(255, 245, 240, 0.85);
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.logo {
+    font-size: 3em;
+    color: #8d4a43;
+    text-align: center;
+    margin: 0;
+}
+
+.slogan {
+    font-style: italic;
+    color: #b5736d;
+    text-align: center;
+    font-size: 1.3em;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #7c443a;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
